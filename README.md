@@ -42,7 +42,7 @@ The requirements analysis explores questions such as:
 - How can relevant contacts be identified?
 - What should the system allow the user to do?
 
-See [`case studies/linkedin-insights.md`](case studies/linkedin-insights.md).
+See [`case studies/linkedin-insights.md`](case-studies/linkedin-insights.md).
 
 **Prototype:** See the [LinkedIn Insights repository](https://github.com/Elly11Nov/linkedin-buddy-dash).
 
