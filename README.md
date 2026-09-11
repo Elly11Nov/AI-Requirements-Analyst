@@ -59,6 +59,7 @@ The requirements analysis explores questions such as:
 - What information supports decision-making?
 
 See [Deal Compass case study](case%20studies/deal-compass.md).
+
 **Prototype:** See the [Deal Compass repository](https://github.com/Elly11Nov/term-sheet-ninja).
 
 ## Requirements Analysis Approach
