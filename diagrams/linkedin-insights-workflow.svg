@@ -1,1 +1,36 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L0 6L9 3z" fill="#334155"/></marker>
+<style>
+.t{font:700 28px Arial;fill:#172554}.s{font:700 17px Arial;fill:#172554}.b{font:14px Arial;fill:#334155}.sm{font:13px Arial;fill:#475569}
+.box{stroke:#64748b;stroke-width:1.5;rx:12}.ai{fill:#f5f3ff}.hu{fill:#eff6ff}.sy{fill:#ecfdf5}.out{fill:#fffbeb}
+</style></defs>
+<rect width="1200" height="1000" fill="white"/>
+<text x="45" y="45" class="t">LinkedIn Insights — Workflow and AI Assistance</text>
+<text x="45" y="72" class="sm">From LinkedIn connections to actionable insights for a targeted job search</text>
+<rect x="55" y="105" width="650" height="825" fill="white" stroke="#cbd5e1" rx="18"/>
+<text x="85" y="140" class="s">Core workflow</text>
+<!-- boxes -->
+<g>
+<rect x="115" y="165" width="530" height="75" class="box hu"/><text x="140" y="195" class="s">1. LinkedIn connection export</text><text x="140" y="220" class="b">User exports professional connections as a CSV file.</text>
+<rect x="115" y="275" width="530" height="75" class="box sy"/><text x="140" y="305" class="s">2. Data import</text><text x="140" y="330" class="b">System imports and validates the available connection data.</text>
+<rect x="115" y="385" width="530" height="85" class="box ai"/><text x="140" y="415" class="s">3. Data processing — AI assisted</text><text x="140" y="440" class="b">AI can clean, structure and enrich information where supported.</text>
+<rect x="115" y="505" width="530" height="75" class="box hu"/><text x="140" y="535" class="s">4. Search and filtering</text><text x="140" y="560" class="b">User defines criteria such as company, role, location or industry.</text>
+<rect x="115" y="615" width="530" height="85" class="box ai"/><text x="140" y="645" class="s">5. Identify relevant connections — AI assisted</text><text x="140" y="670" class="b">AI can identify patterns and suggest potentially relevant contacts.</text>
+<rect x="115" y="735" width="530" height="75" class="box sy"/><text x="140" y="765" class="s">6. Present insights</text><text x="140" y="790" class="b">System presents matches with useful contextual information.</text>
+<rect x="115" y="845" width="530" height="75" class="box hu"/><text x="140" y="875" class="s">7. User review → job-search action</text><text x="140" y="900" class="b">User interprets results and decides which connections to contact.</text>
+</g>
+<g stroke="#334155" stroke-width="2" fill="none" marker-end="url(#a)">
+<line x1="380" y1="240" x2="380" y2="275"/><line x1="380" y1="350" x2="380" y2="385"/><line x1="380" y1="470" x2="380" y2="505"/><line x1="380" y1="580" x2="380" y2="615"/><line x1="380" y1="700" x2="380" y2="735"/><line x1="380" y1="810" x2="380" y2="845"/>
+</g>
+<!-- side panels -->
+<rect x="745" y="105" width="400" height="250" class="box ai"/>
+<text x="775" y="145" class="s">Role of AI</text>
+<text x="775" y="180" class="b">• Clean and structure available data</text><text x="775" y="210" class="b">• Enrich connection information</text><text x="775" y="240" class="b">• Identify patterns and potential relevance</text><text x="775" y="270" class="b">• Suggest connections for review</text><text x="775" y="300" class="b">• Surface insights from unstructured data</text><text x="775" y="330" class="sm">AI output remains subject to human validation.</text>
+<rect x="745" y="385" width="400" height="250" class="box hu"/>
+<text x="775" y="425" class="s">Human in control</text>
+<text x="775" y="460" class="b">• Provides the source data</text><text x="775" y="490" class="b">• Defines search criteria</text><text x="775" y="520" class="b">• Reviews and interprets results</text><text x="775" y="550" class="b">• Decides which connections matter</text><text x="775" y="580" class="b">• Decides whether to make contact</text><text x="775" y="610" class="sm">AI supports analysis; the user makes the decision.</text>
+<rect x="745" y="665" width="400" height="265" class="box out"/>
+<text x="775" y="705" class="s">Outcome</text>
+<text x="775" y="740" class="b">A clearer, more usable view of the professional</text><text x="775" y="770" class="b">network, helping the user identify connections</text><text x="775" y="800" class="b">worth exploring during a targeted job search.</text>
+<text x="775" y="850" class="s">Key benefits</text><text x="775" y="880" class="b">✓ Easier identification of relevant connections</text><text x="775" y="905" class="b">✓ Better-informed networking decisions</text>
+</svg>
